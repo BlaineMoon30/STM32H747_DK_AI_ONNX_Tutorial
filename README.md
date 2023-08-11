@@ -3,6 +3,9 @@ STM32H747_DK_AI_ONNX_Tutorial
 
 STM32CubeMX New project ( based on STM32H747 )
 
+"svc_wl_48_pct_5_human_activity_recognition_WISDM.onnx" : ( https://github.com/STMicroelectronics/stm32ai-modelzoo )
+
+
 Software Packs -> Select components
 STMicroelectronics X-CUBE-AI -> Check the "Core" and Check the "Application Template"
 
